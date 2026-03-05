@@ -1,5 +1,4 @@
 # Hey there! 👋 Welcome to my GitHub
-
 > Creating innovative digital marketing solutions and exploring the intersection of technology and marketing.
 
 ---
